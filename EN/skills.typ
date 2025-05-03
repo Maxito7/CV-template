@@ -1,6 +1,6 @@
 #import "layout.typ": skill_set
 #skill_set("Programming Languages")[
-  Rust, Go, C, C++, Python, Bash, Zig, Java, C\#, JavaScript, TypeScript, Lua
+  Rust, Go, C, C++, Python, Bash, Java, C\#, JavaScript, TypeScript, Lua
 ]
 #skill_set("Specialized Software")[
   BurpSuite, msfconsole, Shodan, Wireshark, nmap, Zenmap, Metasploit

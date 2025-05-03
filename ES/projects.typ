@@ -23,14 +23,14 @@
     "Risky (repositorio privado)",
     "Rust"
   )[
-    Software de gestión de riesgos diseñado para entidades del Estado del Perú. Proyecto realizado para tesis. (En progreso)
+    Software de gestión de riesgos diseñado para pymes. Proyecto realizado para tesis. (En progreso)
   ],
   project(
       "https://github.com/Maxito7/ingesoft_matriculas",
-      "Sistema de Gestión de Matrículas Universitarias (repositorio privado)",
+      "MatrisoftGO - Sistema de Gestión de Matrículas Universitarias",
       "Go"
     )[
-    Sistema de gestión de matrículas universitarias fullstack desarrollado para un proyecto universitario. Backend desarrollado en Go usando librerías como sqlx y Echo. (En progreso)
+    Sistema de gestión de matrículas universitarias fullstack desarrollado para un proyecto universitario. Backend desarrollado en Go usando librerías como `sqlx` y `Echo`. Elegido para la feria XpoSTEM 24-2.
   ],
   project(
     "https://github.com/Maxito7/qualcosa",

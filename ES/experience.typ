@@ -1,9 +1,19 @@
 #import "layout.typ": EXP, job
 #EXP(
+  "TORSA Mining Services Perú",
+  "Santiago de Surco, Lima",
+  "Ingeniero de Soporte I",
+  "Diciembre 2024-Presente",
+)
+#job("Analista de Seeguridad de Sistemas & TI y Detección y Prevención de Incidencias", "")[
+    Detección y resolución de incidentes relacionados a TI en equipos embebidos utilizados en vehículos de minería así como en dispositivos IoT utilizados en almacenes farmaceúticos. Mantenimiento diario de plataformas web y servidores proporcionados a clientes. Configuración remota de equipamiento embebido utilizado en vehículos de minería a través de servidores Ubuntu, la cual incluye la instalación y configuración de middlewares.
+]
+#v(-14pt)
+#EXP(
   "CHANA - PUCP",
   "San Miguel, Lima",
   "Desarrollador de Software",
-  "Marzo 2024-Present",
+  "Marzo 2024-Presente",
 )
 /*
 #job(
@@ -17,17 +27,7 @@
   "Desarrollo de un modelo NLP para el lenguaje amahuaca (Python, JavaScript & Docker)",
   "",
 )[
-  Creación de un modelo de procesamiento de lenguaje natural (NLP) para el lenguaje amahuaca, despliegue en un contenedor Docker para tener acceso a su API y usar el modelo en una página web para el desarrollo de un traductor de oraciones, el cual dará como resultado la oración traducida al español y al inglés así como los morfemas léxicos.
-]
-#v(-14pt)
-#EXP(
-  "UMetSoft - PUCP",
-  "San Miguel, Lima",
-  "Investigador y Desarrollador Voluntario",
-  "Abril 2024-Present",
-)
-#job("Mapa Interactivo de Campus Universitario (WebXR, JavaScript, Three.js)", "")[
-  Investigación preliminar acerca del API WebXR y su uso potencial para apps universitarias, tomando en cuenta la accesibilidad para usuarios con hardware antiguo. Desarrollo de prototipos de un mapa interactivo del campus universitario mediante el uso de realidad aumentada (AR) utilizando la API WebXR y la librería Three.js.
+  Creación de un modelo de procesamiento de lenguaje natural (NLP) para el lenguaje amahuaca, despliegue en un contenedor Docker para tener acceso a su API y usar el modelo en una página web para el desarrollo de un traductor de oraciones.
 ]
 #v(-14pt)
 #EXP(

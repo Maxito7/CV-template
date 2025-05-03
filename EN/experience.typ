@@ -1,5 +1,15 @@
 #import "layout.typ": EXP, job
 #EXP(
+  "TORSA Mining Services Peru",
+  "Santiago de Surco, Lima",
+  "(Internship) Software Support Engineer I",
+  "December 2024-Present",
+)
+#job("Systems & IT Security Analysis and Incidence Detection and Prevention", "")[
+    Detection and resolution of IT related incidents in embedded equipment used in mining vehicles as well as IoT devices for pharmaceutical warehouses. Daily maintenance to the web platforms and servers provided to the clients. Remote configuration of embedded equipment used in mining vehicles through Ubuntu servers by installing and configuring firmware.
+]
+#v(-14pt)
+#EXP(
   "CHANA - PUCP",
   "San Miguel, Lima",
   "Software Developer CO-OP",
@@ -12,6 +22,7 @@
   Creation of a natural language processing (NLP) model for the Amahuaca language of the Panoan language family, deployment in a Docker container for access to the API and hosting it on a website to develop a sentence translator which returns the sentence translated to Spanish and information such as the lexical morphemes in both languages.
 ]
 #v(-14pt)
+/*
 #EXP(
   "UMetSoft - PUCP",
   "San Miguel, Lima",
@@ -21,13 +32,13 @@
 #job("Interactive University Campus Map (WebXR, JavaScript, Three.js)", "")[
     Preliminary research about the WebXR API and its potential uses for university apps, taking into account accessibility for users with older hardware. Creation and deployment of prototypes of an interactive map of the university campus using augmented reality (AR) through the WebXR API and Three.js library.
 ]
-#v(-14pt)
+*/
 #EXP(
   "Programming Laboratory Assistantance - PUCP",
   "San Miguel, Lima",
   "C & C++ language instructor",
-  "August 2024-Present"
+    "August 2024-Present"
 )
 #job("University Programming Laboratory Assistant (PUCP)", "")[
-Teach students concepts of the C & C++ programming language in laboratory sessions, provide them assistance with their laboratory assignments and grade them afterwards.
+  Teach students concepts of the C & C++ programming languages in graded laboratory sessions, provide them assistance with their laboratory assignments and grade them afterwards.
 ]
