@@ -19,7 +19,7 @@
   "Develop NLP Model for the Amahuaca language (Python, JavaScript & Docker)",
   "",
 )[
-  Creation of a natural language processing (NLP) model for the Amahuaca language of the Panoan language family, deployment in a Docker container for access to the API and hosting it on a website to develop a sentence translator which returns the sentence translated to Spanish and information such as the lexical morphemes in both languages.
+  Creation of a natural language processing (NLP) model for the Amahuaca language of the Panoan language family to develop an Amahuacan sentence translator which returns the sentence translated to Spanish and information such as the lexical morphemes.
 ]
 #v(-14pt)
 /*

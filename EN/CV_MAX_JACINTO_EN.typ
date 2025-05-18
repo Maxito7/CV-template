@@ -18,7 +18,7 @@
 )
 #v(-13pt)
 Experience in courses related to cybersecurity:
-  - Operating Systems, Computer Networks, Information Security, Ethical Hacking & Cryptography, Computer Forensics, IT Governance, IT & Systems Auditing and Risk Management. Experience with NIST CSF 2.0 and ISO 27001/27002/31000.
+  - Operating Systems, Networks, Information Security, Ethical Hacking & Cryptography (PUCP Master's), Computer Forensics (PUCP Master's), IT Governance, IT & Systems Auditing and Risk Management. Knowledge in COBIT 6 for Information Security, OCEG Red Book, NIST CSF 2.0 and ISO 27001/27002/31000.
 = Experience
 #include "experience.typ"
 #let languages = ("Rust", "Go", "C", "C++", "Bash", "Python")

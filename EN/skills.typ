@@ -22,7 +22,7 @@
 #skill_set("Tools")[
   MySQL,
   Postgres,
-  Oracle Database,
+  Oracle DB,
   Cargo,
   Git,
   AWS,
