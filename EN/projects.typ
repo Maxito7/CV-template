@@ -17,6 +17,7 @@
 #let is_desired_project(desired_languages, project) = {
   desired_languages.map(upper).contains(upper(project.language))
 }
+#set text(size: 10pt)
 #let projects = (
   project(
     "https://github.com/Maxito7/risky",

@@ -39,6 +39,14 @@
   )[
     Librería para obtener el hex dump de archivos. (En progreso)
   ],
+project(
+    "https://github.com/Maxito7/conchiglia",
+    "Conchiglia",
+    "Rust"
+  )[
+    Shell desarrollada en Rust como prueba de concepto.
+  ],
+  /*
   project(
     "https://github.com/Maxito7/Qbo",
     "Qbo",
@@ -46,4 +54,5 @@
   )[
     TUI app hecha para mejorar el DX de hackers éticos usando módulos para implementar sus propios exploits, similar a msfconsole. (En progreso)
   ]
+*/
 )

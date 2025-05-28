@@ -1,4 +1,5 @@
 #import "layout.typ": skill_set
+#set text(size: 10pt)
 #skill_set("Programming Languages")[
   Rust, Go, C, C++, Python, Bash, Java, C\#, JavaScript, TypeScript, Lua
 ]

@@ -4,7 +4,8 @@
   margin: (x: auto, y: 30pt),
   footer: align(center)[_References available upon request._],
 )
-#set text(font: "JetBrainsMono NF")
+//#set text(font: "JetBrainsMono Nerd Font")
+#set text(font: "IBM Plex Serif", size: 11pt)
 #set par(
   justify: true,
   leading: 0.52em,
@@ -12,13 +13,15 @@
 
 #let special-color = rgb("#11ad5a")
 //11ad5a
+// MY NAME GOES HERE
 #let res-name(body) = [
-  #set text(font: "Inter", size: 18pt)
+  #set text(font: "IBM Plex Serif", size: 18pt)
   #upper(text(weight: "bold")[#body])
 ]
+// LINKS GO HERE
 #let contact(symbol, body) = [
-  #set text(size: 10pt)
-  #text(special-color)[ / #text(size: 8pt)[#symbol]: *#body*]
+  #set text(size: 11pt)
+  #text(special-color)[ / #text(size: 11pt)[#symbol]: *#body*]
 ]
 #let subheading(body) = [
   #text(weight: "bold")[#body]
@@ -35,25 +38,25 @@
     inset: 0pt,
     stroke: none,
     [*#company_or_topic*], [#loc],
-    [#(text(style: "italic")[#title])], [#(text(style: "italic")[#dates])],
+    [#(text(style: "normal", size: 11pt)[#title])], [#(text(style: "normal", size: 11pt)[#dates])],
   )[
   ]
 
 ]
 #let job(task, url, body) = [
-  #set text(size: 10pt)
+  #set text(size: 11pt)
   #v(-21pt)
-  #block(inset: 10pt)[
+  #block(inset: 11pt)[
     #subheading()[#task]
     #if url.len() > 0 [
-      #link(url)[#text(size: 10pt, special-color)[]]
+      #link(url)[#text(size: 11pt, special-color)[]]
     ]
     - #body
   ]
 ]
 #let project_subheading(url, name, body) = [
   #subheading(text[#name])
-  #text(special-color, link(url)[#text(size: 10pt, special-color)[]])\
+  #text(special-color, link(url)[#text(size: 11pt, special-color)[]])\
   #body\
 ]
 #let skill_set(title, body) = [
@@ -66,8 +69,8 @@
   body,
 ) = [
   #show heading.where(level: 1): it => [
-    #v(-10pt)
-    #set text(font: "Inter", size: 15pt)
+    #v(-11pt)
+    #set text(font: "IBM Plex Serif", size: 13pt)
     #upper(text(special-color, weight: "bold")[#it.body])
     #v(-12pt)
     #line(length: 100%, stroke: special-color)
@@ -82,7 +85,7 @@
     margin: (x: auto, y: 30pt),
     footer: align(center)[_References available upon request._],
   )
-  #set text(font: "Inter")
+  #set text(font: "Lilex Nerd Font Mono")
   #set par(
     justify: true,
     leading: 0.52em,
