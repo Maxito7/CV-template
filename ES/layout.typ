@@ -13,11 +13,11 @@
 #let special-color = rgb("#11ad5a")
 //11ad5a
 #let res-name(body) = [
-  #set text(font: "Inter", size: 18pt)
+  #set text(font: ("Lilex Nerd Font"), size: 18pt)
   #upper(text(weight: "bold")[#body])
 ]
 #let contact(symbol, body) = [
-  #set text(size: 10pt)
+  #set text(size: 10pt, font: "Lilex Nerd Font")
   #text(special-color)[ / #text(size: 8pt)[#symbol]: *#body*]
 ]
 #let subheading(body) = [
@@ -67,7 +67,7 @@
 ) = [
   #show heading.where(level: 1): it => [
     #v(-10pt)
-    #set text(font: "Inter", size: 15pt)
+    #set text(font: ("IBM Plex Serif", "Lilex Nerd Font"), size: 15pt)
     #upper(text(special-color, weight: "bold")[#it.body])
     #v(-12pt)
     #line(length: 100%, stroke: special-color)
@@ -82,7 +82,7 @@
     margin: (x: auto, y: 30pt),
     footer: align(center)[_Referencias disponibles a su solicitud._],
   )
-  #set text(font: "Inter")
+  #set text(font: ("IBM Plex Serif", "Lilex Nerd Font"))
   #set par(
     justify: true,
     leading: 0.52em,

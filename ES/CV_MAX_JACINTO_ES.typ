@@ -5,8 +5,8 @@
   contacts: (
     "": "max.jacmes7@gmail.com",
     "": "max.jacinto@pucp.edu.pe",
-    "": "Max Jacinto Mestanza",
-    "": "Maxito7",
+    "": link("https://www.linkedin.com/in/max-jacinto-mestanza-a39969303/")[Max Jacinto Mestanza],
+    "": link("https://github.com/Maxito7")[lucky.dev],
   ),
 )
 = Educación
