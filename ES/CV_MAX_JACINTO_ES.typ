@@ -7,6 +7,7 @@
     "": "max.jacinto@pucp.edu.pe",
     "": link("https://www.linkedin.com/in/max-jacinto-mestanza-a39969303/")[Max Jacinto Mestanza],
     "": link("https://github.com/Maxito7")[lucky.dev],
+    "": "+51 950 824 744",
   ),
 )
 = Educación

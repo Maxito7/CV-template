@@ -13,7 +13,7 @@
 #let special-color = rgb("#11ad5a")
 //11ad5a
 #let res-name(body) = [
-  #set text(font: ("Lilex Nerd Font"), size: 18pt)
+  #set text(font: ("IBM Plex Serif"), size: 18pt)
   #upper(text(weight: "bold")[#body])
 ]
 #let contact(symbol, body) = [

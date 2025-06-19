@@ -6,7 +6,8 @@
     "": "max.jacmes7@gmail.com",
     "": "max.jacinto@pucp.edu.pe",
     "": link("https://www.linkedin.com/in/max-jacinto-mestanza-a39969303/")[Max Jacinto Mestanza],
-    "": link("https://github.com/Maxito7")[Maxito7],
+    "": link("https://github.com/Maxito7")[lucky.dev],
+    "": "+51 950 824 744",
   ),
 )
 #set text(font: ("IBM Plex Serif", "Lilex Nerd Font"), size: 11pt)

@@ -8,6 +8,7 @@
 #job("Analista de Seeguridad de Sistemas & TI y Detección y Prevención de Incidencias", "")[
     Detección y resolución de incidentes relacionados a TI en equipos embebidos utilizados en vehículos de minería así como en dispositivos IoT utilizados en almacenes farmaceúticos. Mantenimiento diario de plataformas web y servidores proporcionados a clientes. Configuración remota de equipamiento embebido utilizado en vehículos de minería a través de servidores Ubuntu, la cual incluye la instalación y configuración de middlewares.
 ]
+/*
 #v(-14pt)
 #EXP(
   "CHANA - PUCP",
@@ -29,6 +30,7 @@
 )[
   Creación de un modelo de procesamiento de lenguaje natural (NLP) para el lenguaje amahuaca, despliegue en un contenedor Docker para tener acceso a su API y usar el modelo en una página web para el desarrollo de un traductor de oraciones.
 ]
+*/
 #v(-14pt)
 #EXP(
   "Jefatura de Prácticas - PUCP",
@@ -38,4 +40,14 @@
 )
 #job("Jefe de Práctica en cursos de Programación (PUCP)", "")[
 Enseñar a los alumnos conceptos del lenguaje de programación C & C++ en sesiones de laboratorio, brindarles ayuda en sus actividades calificadas y calificarlos posteriormente.
+]
+#v(-14pt)
+#EXP(
+  "Proyectos de Seguridad Ofensiva",
+  "Callao, Lima",
+  "Investigador independiente",
+  "Agosto 2023-Presente"
+)
+#job("Desarrollo de trabajos orientados a seguridad ofensiva", "")[
+Desarrollo de herramientas de hacking ético como RATs y shells reversos; experiencia utilizando software para explotación de vulnerabilidades como Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, John the Ripper, Exegol, espoofer; preparación para EC-Council CEH.
 ]

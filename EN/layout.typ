@@ -20,8 +20,8 @@
 ]
 // LINKS GO HERE
 #let contact(symbol, body) = [
-  #set text(size: 11pt)
-  #text(special-color)[ / #text(size: 11pt)[#symbol]: *#body*]
+  #set text(size: 10pt)
+  #text(special-color)[ / #text(size: 8pt)[#symbol]: *#body*]
 ]
 #let subheading(body) = [
   #text(weight: "bold")[#body]

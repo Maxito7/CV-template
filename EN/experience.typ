@@ -40,5 +40,5 @@
     "August 2024-Present"
 )
 #job("University Programming Laboratory Assistant (PUCP)", "")[
-  Teach students concepts of the C & C++ programming languages in graded laboratory sessions, provide them assistance with their laboratory assignments and grade them afterwards.
+  Teach students concepts of the C & C++ programming languages in graded laboratory sessions as well as provide them assistance with their programming tests.
 ]
